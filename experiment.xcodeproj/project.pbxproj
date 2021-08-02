@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9826EC8626AFDD3000DF869B /* PlayViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9826EC8526AFDD3000DF869B /* PlayViewController.swift */; };
 		9848E7FB26ACA7F0007B41CC /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9848E7FA26ACA7F0007B41CC /* AppDelegate.swift */; };
 		9848E7FD26ACA7F0007B41CC /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9848E7FC26ACA7F0007B41CC /* SceneDelegate.swift */; };
 		9848E7FF26ACA7F0007B41CC /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9848E7FE26ACA7F0007B41CC /* ViewController.swift */; };
@@ -35,6 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		9826EC8526AFDD3000DF869B /* PlayViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlayViewController.swift; sourceTree = "<group>"; };
 		9848E7F726ACA7F0007B41CC /* experiment.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = experiment.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9848E7FA26ACA7F0007B41CC /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9848E7FC26ACA7F0007B41CC /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -103,6 +105,7 @@
 				9848E7FC26ACA7F0007B41CC /* SceneDelegate.swift */,
 				9848E7FE26ACA7F0007B41CC /* ViewController.swift */,
 				9848E80026ACA7F0007B41CC /* Main.storyboard */,
+				9826EC8526AFDD3000DF869B /* PlayViewController.swift */,
 				9848E80326ACA7F1007B41CC /* Assets.xcassets */,
 				9848E80526ACA7F1007B41CC /* LaunchScreen.storyboard */,
 				9848E80826ACA7F1007B41CC /* Info.plist */,
@@ -258,6 +261,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9826EC8626AFDD3000DF869B /* PlayViewController.swift in Sources */,
 				9848E7FF26ACA7F0007B41CC /* ViewController.swift in Sources */,
 				9848E7FB26ACA7F0007B41CC /* AppDelegate.swift in Sources */,
 				9848E7FD26ACA7F0007B41CC /* SceneDelegate.swift in Sources */,
